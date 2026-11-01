@@ -1,0 +1,5 @@
+# Build artifacts
+*.o
+demo
+test
+_codeql_detected_source_root
